@@ -22,3 +22,14 @@ for performing analytical queries.
 ## Purpose
 This project was created for learning and practice
 of SQL data analysis concepts.
+
+## 📸 SQL Query Results
+
+Below are sample outputs generated after executing SQL queries
+on the retail sales database.
+
+![SQL Results](Screenshots/sql_query_results.png)
+
+These results validate the correctness of joins, aggregations,
+and grouping used in the analysis.
+
